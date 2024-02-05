@@ -1,0 +1,78 @@
+body {
+	background-image: url("background.jpg");
+	text-align: center;
+	font-family: sans-serif;
+}
+header {
+	margin: auto;
+text-align: center;
+background-color: #6666ff;
+}
+img {
+	width: 200px;
+	border: 20px ridge brown;
+}
+.hobbies >h2{
+	margin: auto;
+text-align: center;
+background-color: #6666ff;
+width: 70%
+}
+.myUl {
+	display: inline-block;
+	text-align: left;
+}
+.top5 >h2{
+	margin: auto;
+text-align: center;
+background-color: #6666ff;
+width: 70%
+}
+.myOl {
+	display: inline-block;
+	text-align: left;
+}
+.aboutme >h2{
+	margin: auto;
+text-align: center;
+background-color: #6666ff;
+width: 70%
+}
+.quote >h2{
+	margin: auto;
+text-align: center;
+background-color: #6666ff;
+width: 70%;
+}
+.assign >h2{
+	margin: auto;
+text-align: center;
+background-color: #6666ff;
+width: 70%;
+}
+.myTable {
+	margin-left: auto;
+    margin-right: auto;
+	width: 70%;
+}
+tr:nth-child(even) {
+  background-color: lightgray;
+}
+tr:nth-child(odd) {
+  background-color: white;
+}
+footer {
+	margin: auto;
+text-align: center;
+background-color: #f2f2f2;
+}
+footer > h2 {
+	background-color: #6666ff;
+}
+a:hover {
+	color: red; 
+}
+span {
+	color:red;
+	font-weight: bold;
+}
